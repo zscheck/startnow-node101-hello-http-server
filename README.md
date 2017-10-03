@@ -1,0 +1,1 @@
+Created a simple web server that only responds to a basic request for http://localhost:8080/. Server responds with "Hello World" and with a status code of 200.
